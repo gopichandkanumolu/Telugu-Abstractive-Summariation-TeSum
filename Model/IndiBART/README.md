@@ -82,9 +82,6 @@ def generate_summary(article_text, max_length=150):
     return summary
 ```
 
-    Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
-
-
 
 ```python
 # # Example usage
